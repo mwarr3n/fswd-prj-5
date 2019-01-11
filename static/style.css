@@ -1,0 +1,17 @@
+body {
+    padding-top: 54px;
+  }
+  
+  @media (min-width: 992px) {
+    body {
+      padding-top: 56px;
+    }
+  }
+
+  .form-format {
+    padding-top: 15px !important;
+  }
+
+  .catalog-alert {
+    padding-top: 15px;
+  }
